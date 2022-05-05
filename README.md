@@ -6,4 +6,6 @@
 
 ## tools
 - `fish`
+  - `fisher`
+  - `gitnow`
 - `starship`
