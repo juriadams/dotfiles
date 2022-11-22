@@ -1,11 +1,8 @@
 # dotfiles
 
 ## apps
-- Termius
-- Hyper
+- [Warp](https://www.warp.dev)
+- [Termius](https://termius.com)
 
 ## tools
-- `fish`
-  - `fisher`
-  - `gitnow`
-- `starship`
+- [`starship`](https://starship.rs)
